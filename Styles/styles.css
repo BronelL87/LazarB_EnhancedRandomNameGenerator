@@ -1,0 +1,18 @@
+body{
+background-color: bisque;
+}
+
+.topBg {
+    background-color: skyblue;
+}
+.titleCenter {
+    text-align: center;
+}
+
+.btnStyle {
+    background-color: lightgreen;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+
